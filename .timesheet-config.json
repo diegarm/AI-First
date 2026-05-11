@@ -1,0 +1,13 @@
+{
+    "user":  "Leonardo Carvalho",
+    "project":  "SI3",
+    "default_task":  "Dev",
+    "default_hours":  8.0,
+    "git_repos":  [
+                      "C:\\Users\\leonardo.carvalho\\source\\repos\\Composable.Backoffice.API",
+                      "C:\\Users\\leonardo.carvalho\\source\\repos\\Composable.Backoffice.UI",
+                      "C:\\Users\\leonardo.carvalho\\source\\repos\\Composable.General"
+                  ],
+    "git_author":  "leonardo.carvalho",
+    "xlsx_file":  "C:\\Users\\leonardo.carvalho\\VINCI Energies\\GO-F\u0026G Projects - @Composable Funds\\06. Ficha de Tarefas\\Composables Timesheet.xlsx"
+}

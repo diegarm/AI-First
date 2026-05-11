@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd \"C:\\\\Users\\\\leonardo\\.carvalho\\\\Desktop\\\\AI First\"; foreach \\(\\$d in @\\(\"20260504\",\"20260505\",\"20260506\",\"20260507\",\"20260508\"\\)\\) \\{ python timesheet\\.py --date \\$d 2>&1 \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
